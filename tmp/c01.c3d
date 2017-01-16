@@ -1,0 +1,54 @@
+  0 EASIG     i:   1  ,          ,  p:   3  
+  1 EASIG     p:   3  ,          ,  p:   2  
+  2 EASIG     p:   2  ,          ,  p:   2  
+  3 EIGUAL    p:   2  ,  i:   1  ,  i:   6  
+  4 GOTOS             ,          ,  i:  53  
+  5 GOTOS             ,          ,  e:   2  
+  6 EREAD             ,          ,  p:   0  
+  7 EASIG     p:   0  ,          ,  p:   0  
+  8 EASIG     i:   0  ,          ,  p:   4  
+  9 EIGUAL    p:   0  ,  p:   4  ,  e:  12  
+ 10 EASIG     i:   0  ,          ,  p:   5  
+ 11 GOTOS             ,          ,  e:  13  
+ 12 EASIG     i:   1  ,          ,  p:   5  
+ 13 EASIG     p:   0  ,          ,  p:   0  
+ 14 EASIG     p:   0  ,          ,  p:   0  
+ 15 EDIST     p:   0  ,  p:   0  ,  e:  18  
+ 16 EASIG     i:   0  ,          ,  p:   6  
+ 17 GOTOS             ,          ,  e:  19  
+ 18 EASIG     i:   1  ,          ,  p:   6  
+ 19 EASIG     i:   1  ,          ,  p:   7  
+ 20 EIGUAL    p:   5  ,  i:   1  ,  e:  23  
+ 21 EIGUAL    p:   6  ,  i:   1  ,  e:  23  
+ 22 EASIG     i:   0  ,          ,  p:   7  
+ 23 ESUM      p:   7  ,  i:   1  ,  p:   8  
+ 24 RESTO     p:   8  ,  i:   2  ,  p:   8  
+ 25 EIGUAL    p:   8  ,  i:   0  ,  i:  50  
+ 26 EASIG     p:   0  ,          ,  p:   0  
+ 27 EASIG     i:   0  ,          ,  p:   9  
+ 28 EASIG     i:   1  ,          ,  p:  10  
+ 29 EMAY      p:   0  ,  p:   9  ,  e:  31  
+ 30 EASIG     i:   0  ,          ,  p:  10  
+ 31 EASIG     i:   1  ,          ,  p:  11  
+ 32 EASIG     i:   0  ,          ,  p:  12  
+ 33 EIGUAL    p:  10  ,  i:   0  ,  e:  36  
+ 34 EIGUAL    p:  11  ,  i:   0  ,  e:  36  
+ 35 EASIG     i:   1  ,          ,  p:  12  
+ 36 EASIG     i:   0  ,          ,  p:  13  
+ 37 EASIG     i:   1  ,          ,  p:  14  
+ 38 EIGUAL    p:  12  ,  i:   1  ,  e:  41  
+ 39 EIGUAL    p:  13  ,  i:   1  ,  e:  41  
+ 40 EASIG     i:   0  ,          ,  p:  14  
+ 41 EIGUAL    p:  14  ,  i:   0  ,  i:  47  
+ 42 EASIG     i:   0  ,          ,  p:  15  
+ 43 EASIG     p:  15  ,          ,  p:   2  
+ 44 EASIG     i:   1  ,          ,  p:  16  
+ 45 EWRITE            ,          ,  p:  16  
+ 46 GOTOS             ,          ,  i:  49  
+ 47 EASIG     i:   0  ,          ,  p:  17  
+ 48 EWRITE            ,          ,  p:  17  
+ 49 GOTOS             ,          ,  i:  52  
+ 50 EASIG     i:   0  ,          ,  p:  18  
+ 51 EWRITE            ,          ,  p:  18  
+ 52 GOTOS             ,          ,  e:   5  
+ 53 FIN               ,          ,          

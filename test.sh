@@ -1,0 +1,14 @@
+cd tmp
+./cmc a00.c
+./cmc a01.c
+./cmc a02.c
+./cmc a03.c
+./cmc a04.c
+./cmc a05.c
+./cmc b00.c
+./cmc b01.c
+./cmc b02.c
+./cmc b03.c
+./cmc b04.c
+./cmc b05.c
+cd ..

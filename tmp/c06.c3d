@@ -1,0 +1,42 @@
+  0 EREAD             ,          ,  p:   4  
+  1 EREAD             ,          ,  p:   5  
+  2 EASIG     p:   4  ,          ,  p:   4  
+  3 EASIG     p:   4  ,          ,  p:   0  
+  4 EASIG     p:   5  ,          ,  p:   5  
+  5 EASIG     p:   5  ,          ,  p:   1  
+  6 EASIG     p:   0  ,          ,  p:   0  
+  7 EASIG     p:   1  ,          ,  p:   1  
+  8 EIGUAL    p:   0  ,  p:   1  ,  e:  11  
+  9 EASIG     i:   0  ,          ,  p:   6  
+ 10 GOTOS             ,          ,  e:  12  
+ 11 EASIG     i:   1  ,          ,  p:   6  
+ 12 EIGUAL    p:   6  ,  i:   1  ,  p:  15  
+ 13 GOTOS             ,          ,  p:  39  
+ 14 GOTOS             ,          ,  e:   6  
+ 15 EASIG     p:   0  ,          ,  p:   0  
+ 16 EASIG     p:   1  ,          ,  p:   1  
+ 17 EASIG     i:   1  ,          ,  p:   7  
+ 18 EMAY      p:   0  ,  p:   1  ,  e:  20  
+ 19 EASIG     i:   0  ,          ,  p:   7  
+ 20 EIGUAL    p:   7  ,  i:   0  ,  p:  28  
+ 21 EASIG     p:   1  ,          ,  p:   1  
+ 22 EASIG     p:   1  ,          ,  p:   2  
+ 23 EASIG     p:   0  ,          ,  p:   0  
+ 24 EASIG     p:   1  ,          ,  p:   1  
+ 25 EDIF      p:   0  ,  p:   1  ,  p:   8  
+ 26 EASIG     p:   8  ,          ,  p:   3  
+ 27 GOTOS             ,          ,  p:  34  
+ 28 EASIG     p:   0  ,          ,  p:   0  
+ 29 EASIG     p:   0  ,          ,  p:   2  
+ 30 EASIG     p:   1  ,          ,  p:   1  
+ 31 EASIG     p:   0  ,          ,  p:   0  
+ 32 EDIF      p:   1  ,  p:   0  ,  p:   9  
+ 33 EASIG     p:   9  ,          ,  p:   3  
+ 34 EASIG     p:   2  ,          ,  p:   2  
+ 35 EASIG     p:   2  ,          ,  p:   0  
+ 36 EASIG     p:   3  ,          ,  p:   3  
+ 37 EASIG     p:   3  ,          ,  p:   1  
+ 38 GOTOS             ,          ,  e:  14  
+ 39 EASIG     p:   0  ,          ,  p:   0  
+ 40 EWRITE            ,          ,  p:   0  
+ 41 FIN               ,          ,          
